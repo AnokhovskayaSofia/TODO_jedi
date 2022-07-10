@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>apps-free-icon-font.png</file>
+        <file>bookmark-free-icon-font.png</file>
+        <file>calendar-free-icon-font.png</file>
+        <file>home-free-icon-font.png</file>
+        <file>list-check-free-icon-font.png</file>
+        <file>plus-free-icon-font (1).png</file>
+        <file>Task.json</file>
+        <file>book-alt-free-icon-font.png</file>
+        <file>browser-free-icon-font.png</file>
+        <file>film-free-icon-font.png</file>
+        <file>marker-free-icon-font.png</file>
+    </qresource>
+</RCC>
